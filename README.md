@@ -89,7 +89,7 @@ Built to handle high-concurrency, low-latency traffic safely and efficiently.
 
 Add this if you want:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman1601s&show_icons=true&theme=radical)
 
 ---
 
