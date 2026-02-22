@@ -85,14 +85,6 @@ Built to handle high-concurrency, low-latency traffic safely and efficiently.
 
 ---
 
-## ⚡ GitHub Stats (Optional)
-
-Add this if you want:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman1601s&show_icons=true&theme=radical)
-
----
-
 # 💡 Motto
 
 Build scalable systems.  
